@@ -3,6 +3,7 @@
 var proxy = "PROXY server01.pac.itzmx.com:25;";
 
 var domains = {
+  "18p2p.com": 1,
   "download.kolor.com": 1,
   "messenger.com": 1,
   "tumblr.com": 1,
@@ -836,7 +837,6 @@ var domains = {
   "gimpshop.com": 1, 
   "girlbanker.com": 1, 
   "git-scm.com": 1, 
-  "github.com": 1, 
   "givemesomethingtoread.com": 1, 
   "glennhilton.com": 1, 
   "globaljihad.net": 1, 
