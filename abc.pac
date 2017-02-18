@@ -1,4 +1,5 @@
 // http://pac.itzmx.com
+//root:pac.itzmx.com
 
 var proxy = "PROXY server01.pac.itzmx.com:25;";
 
