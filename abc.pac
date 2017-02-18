@@ -4,6 +4,7 @@
 var proxy = "PROXY server01.pac.itzmx.com:25;";
 
 var domains = {
+  "174.127.195.178": 1,
   "18p2p.com": 1,
   "download.kolor.com": 1,
   "messenger.com": 1,
